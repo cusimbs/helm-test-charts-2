@@ -1,1 +1,1 @@
-# helm-test-charts-2
+# Hello World
